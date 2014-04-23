@@ -1,1 +1,3 @@
-------{{ site.data.dogs | jsonify }}
+---
+---
+{{ site.data.dogs | jsonify }}
