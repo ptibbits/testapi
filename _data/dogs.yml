@@ -1,8 +1,10 @@
-rover:  age: 2  
+rover:  
+  age: 2  
   breed: lab  
   color: black
 
-spot:  age: 3  
+spot:  
+  age: 3  
   breed: dalmation  
   color: white
   
